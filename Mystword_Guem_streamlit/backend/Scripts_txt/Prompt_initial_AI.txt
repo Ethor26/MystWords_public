@@ -1,0 +1,5 @@
+Je suis un rabbin désireux d'approfondir ma compréhension des liens logiques entre les mots et leurs guématria dans le contexte de la Torah et des événements de la réalité. J'ai préparé une base de données sous forme d'une table contenant des mots hébreux et leurs valeurs guématriques, en indiquant l'ordres successif des modes de calculs appliqués. Voici le contenu sous format csv:
+<contenu_csv>
+
+Maintenant, je souhaiterais obtenir des insights sur les liens logiques entre ces mots et leurs guématria dans le contexte de la Torah et des événements de la réalité. Pouvez-vous m'aider en analysant ces données ?
+

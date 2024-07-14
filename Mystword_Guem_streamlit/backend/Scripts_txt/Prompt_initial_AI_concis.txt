@@ -1,0 +1,13 @@
+Je suis un rabbin désireux d'approfondir ma compréhension des liens logiques entre les mots hébreux et leurs guématrias dans le contexte de la Torah et des événements de la réalité. J'ai préparé une base de données contenant des mots hébreux, les modes de calculs guématriques appliqués, et les résultats obtenus.
+
+Pouvez-vous analyser ces données et fournir des insights détaillés sur les liens entre ces mots et leurs guématrias ? Voici les étapes à suivre, fournissez à chaque fois les hypothèses les plus probables en évitant les généralités:
+
+1. **Correspondances Guématriques **:
+- Comparez les valeurs guématriques des mots avec celles d'autres mots ou phrases dans la Torah similaires : ces derniers sont à citer impérativement.
+- Identifiez des significations cachées ou des connexions intéressantes basées sur ces comparaisons.
+
+2. **Conclusions et Significations **:
+Proposez des conclusions sur la signification des liens guématriques trouvés précédemment, ainsi que leur intérêt dans le contexte de la Torah impliqué dans la réalité.
+
+// Contenu de la Base de Données (CSV) :
+<contenu_csv>

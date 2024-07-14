@@ -1,0 +1,12 @@
+numpy # numpy~=1.26.4
+streamlit # streamlit~=1.33.0
+openai # openai~=1.16.2
+sqlparse # sqlparse~=0.4.4
+mariadb # mariadb~=1.1.10
+python-dotenv # python-dotenv~=1.0.1
+
+
+pandas # pandas~=2.2.1
+pillow # pillow~=10.3.0
+transformers # transformers~=4.41.0
+requests # requests~=2.31.0

@@ -1,0 +1,11 @@
+Row_num;words;list_modes;guematria_results
+1;הם;->RAGIL;605
+2;רק;->RAGIL;300
+3;כך;->RAGIL;520
+4;כמו;->RAGIL;66
+5;אחד;->RAGIL;13
+6;שלי;->RAGIL;340
+7;בין;->RAGIL;712
+8;אותו;->RAGIL;413
+9;עד;->RAGIL;74
+10;אז;->RAGIL;8
